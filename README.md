@@ -79,6 +79,3 @@ Before starting the analysis, the database was set up and refined for accuracy.
 - **Pandas** 📊: Data processing and visualization.
 - **Jupyter Notebook** 📓: Interactive Python environment.
 
----
-
-This README file is concise, visually appealing, and informative. Feel free to use it as is or suggest any edits to further enhance it! 🚀
